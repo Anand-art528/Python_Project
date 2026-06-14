@@ -23,7 +23,7 @@
 - Food, Clothing, and Electronics were top-selling categories
 
 ## 📂 Dataset
-- `Diwali Sales Data.csv`
+https://github.com/Anand-art528/Python_Project/blob/eed81ffa757c4a22193b8db70592f755e0c010d3/vDiwali%20Sales%20Data.csv
 
 ## 👨‍💻 Author
 Anand Yadav
